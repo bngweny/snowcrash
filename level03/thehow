@@ -1,4 +1,4 @@
-level03 folder contains AN ELF 32 executible
+level03 folder contains AN ELF 32 executable
 using the gdb we get this in the main dump
 
 (gdb) disassemble main
