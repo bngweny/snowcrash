@@ -9,3 +9,4 @@ Theoretically if we pass `getflag` as the x parameter it should be run as a comm
 
 we curl the webpage served by CGI on the supplied port 4747
 curl 'localhost:4747/level04.pl?x=`getflag`' and voila we get the flag.
+
